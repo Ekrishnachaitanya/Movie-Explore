@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://admin:admin@mernatoz.kesyk.mongodb.net/MovieExplore?retryWrites=true&w=majority"
+}
